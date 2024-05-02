@@ -17,7 +17,7 @@ All People Writing to the Storage Philes shall
 
 All writed + should be Replaced according to Unicode 7.
 
-## Ranks and points
+## Ranks and Points
 
 This __list__ of __lists__ of __lists__ is a __list__ of articles that are __lists__ of other __list__ articles.
 
