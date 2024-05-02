@@ -2,7 +2,7 @@ What? You were expecting a random joke here?
 
 # Liscence
 
-This is the Liscence of Clong cuck con Clock, 
+This is the Liscence of Clong cuck con Clock.
 
 **WE WHO WILL TOUCH THE SKY WITH YOU** ARE GUARANTEED TO HYPERTEXT MARKDOWN WORDS, So that all People can Write to the Storage Philes.
 
