@@ -1,2 +1,1 @@
-# extra-storage-files
-when storage.txt is more than 64k code, this will hold storage
+find data.mediawiki anywhere in the repo
